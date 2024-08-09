@@ -4,7 +4,7 @@ A Java Spring Boot application demonstrating the basics of building a RESTful AP
 
 ## Description
 
-This project serves as a template for building a RESTful API using Java and the Spring Boot framework. It includes basic CRUD (Create, Read, Update, Delete) operations for a `User` entity and demonstrates best practices in structuring a Spring Boot application.
+This project serves as my first Java RESTful API using Java and the Spring Boot framework. It includes basic CRUD (Create, Read, Update, Delete) operations for a `User` entity and demonstrates best practices in structuring a Spring Boot application.
 
 ## Features
 
